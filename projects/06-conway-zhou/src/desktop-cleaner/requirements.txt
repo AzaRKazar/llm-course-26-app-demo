@@ -3,7 +3,6 @@ uvicorn
 PyQt5
 pywin32
 ollama
-python-dotenv
 pydantic
 pytest
 httpx
