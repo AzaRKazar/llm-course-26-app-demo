@@ -1,13 +1,13 @@
 ---
 slug: 20-omkar-rane
-title: Diff-Scribe: The PR Description Writer
+title: "Diff-Scribe: The PR Description Writer"
 students:
   - Omkar Rane
 tags:
-  - developer tools
+  - developer-tools
   - github
-  - pull request decsription
-category: Developer Tools
+  - pull-request-description
+category: developer-tools
 tagline: From diff to done — AI drafts your GitHub PR description where you type it.
 featuredEligible: true
 
