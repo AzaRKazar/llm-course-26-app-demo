@@ -1,5 +1,5 @@
 ---
-slug: parag-bharatbhai-patel
+slug: 22-parag-bharatbhai-patel
 title: Intelligent IT Ticket Resolver
 students:
   - Parag Bharatbhai Patel
@@ -18,11 +18,9 @@ semester: "Spring 2026"
 shortTitle: "IT Ticket Resolver"
 studentId: "116652722"
 videoUrl: https://drive.google.com/file/d/1MWdwoD9lp0nA_9aJIqwtAjbTWfqoXa-j/view?usp=drive_link
-thumbnail: https://drive.google.com/file/d/1kgkah1STaGXxOkdHI-Iw2Ju1_zwdv5zH/view?usp=drive_link
+thumbnail: /thumbnails/22-parag-bharatbhai-patel.png
 githubUrl: https://github.com/parag1912/IT_Ticket_Master
 ---
-
-
 ## Problem
 
 IT support teams are overwhelmed with repetitive, low-complexity tickets that could be resolved automatically. Employees face long wait times for help with common issues like password resets, network connectivity problems, and software bugs — reducing productivity and increasing operational costs. There is no intelligent triage layer to distinguish solvable issues from those that truly need human intervention.
