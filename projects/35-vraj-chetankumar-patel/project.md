@@ -18,10 +18,9 @@ semester: "Spring 2026"
 shortTitle: ""
 studentId: "117629031"
 videoUrl: "https://drive.google.com/file/d/1wlyb6DIxHKFIBbuOpw3bHAsm-7O7wqoV/view?usp=sharing"
-thumbnail: "https://drive.google.com/file/d/1eJFn_ntG30t5FyT9PjbkBaU6kb0gYlLG/view?usp=sharing"
+thumbnail: /thumbnails/35-vraj-chetankumar-patel.png
 githubUrl: "https://github.com/goffycoder/FixFlow"
 ---
-
 ## Problem
 
 Property maintenance is often slow and manual for both tenants and landlords. Tenants may struggle to describe issues clearly, while landlords must spend time diagnosing the problem, finding contractors, checking their credibility, estimating costs, and deciding whether to approve the repair. This creates delays, inconsistent decisions, and extra operational overhead.
