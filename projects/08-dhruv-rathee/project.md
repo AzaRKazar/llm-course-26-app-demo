@@ -17,11 +17,9 @@ semester: "Spring 2026"
 shortTitle: "CodeStory"
 studentId: "116633028"
 videoUrl: "https://drive.google.com/file/d/1bFvYFgrMZb0mull7C-S4-7jJwPyTUhZr/view?usp=sharing"
-thumbnail: "https://drive.google.com/file/d/1aJq8MpYtUvCclOpJRhZjBfswiojqyezc/view?usp=sharing"
+thumbnail: /thumbnails/08-dhruv-rathee.png
 githubUrl: "https://github.com/12-crypto"
 ---
-
-
 ## Problem
 
 When developers inherit unfamiliar code, the hardest question is usually not what it does, but why it exists. `git blame` reveals who changed a line and when, but not the reasoning behind the change. That leaves onboarding, debugging, and maintenance dependent on tribal knowledge buried across commits, issues, and pull requests.
