@@ -28,14 +28,12 @@ studentId: "116423050"
 videoUrl: "https://drive.google.com/file/d/1s3mV6MpE9UsQyvhfMPAgv9jIeRH3T63h/view?usp=drive_link"
 # Add your Google Drive demo video link here
 
-thumbnail: "https://drive.google.com/file/d/1TfeCnlfjHI9R11WSjlAZgeQYc45o2YFY/view?usp=drive_link"
+thumbnail: /thumbnails/14-jaya-chandra-dadi.png
 # Add your Google Drive thumbnail link here
 
 githubUrl: ""
 # Optional: add your personal GitHub repo link if needed
 ---
-
-
 ## Problem
 
 People often make important life and career decisions without understanding the long-term consequences of their choices. It is difficult to evaluate short-term benefits, long-term outcomes, risks, and personal priorities all at once.
