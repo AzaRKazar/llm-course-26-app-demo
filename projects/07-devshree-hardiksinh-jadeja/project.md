@@ -8,7 +8,7 @@ tags:
   - healthcare
   - rag
   - gnn
-category: healthcare
+category: health
 tagline: "A multi-modal AI diagnostic engine accelerating rare disease identification using RAG and GNNs."
 featuredEligible: true
 
@@ -17,10 +17,9 @@ semester: "Spring 2026"
 shortTitle: "DiagRAG"
 studentId: "116651954"
 videoUrl: "https://drive.google.com/file/d/1RyGGYEFlMA0vAyVdClLAQMvYyjwU0T_9/view?usp=drive_link"
-thumbnail: "https://drive.google.com/file/d/1n2hqyEk-5hlHIBHfAsak99Du6DfEejO2/view?usp=drive_link"
+thumbnail: /thumbnails/07-devshree-hardiksinh-jadeja.png
 githubUrl: "https://github.com/Zesearch/llm-course-26-app-demo/tree/main/projects/07-devshree-hardiksinh-jadeja"
 ---
-
 ## Problem
 
 Rare disease diagnosis is a "diagnostic odyssey" for patients, often taking years and multiple specialist visits. The challenge lies in the fragmentation of data: genomic variants, clinical phenotypes, biological pathways, and scientific literature are often siloed. Clinicians require a unified system that can synthesize these multi-modal evidence streams into transparent and actionable insights, moving beyond isolated symptom checkers to a platform that provides molecular-level answers.
