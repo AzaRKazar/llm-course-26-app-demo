@@ -2,7 +2,7 @@
 # Fill in all the fields below.
 # See projects/00-demo-solha-park/project.md for a completed reference.
 
-slug: SocraticTutor
+slug: 01-aayush-nair
 # Your pre-created folder name — exactly as it appears under projects/.
 # Example: if your folder is projects/aayush-nair, write: aayush-nair
 
@@ -50,15 +50,13 @@ videoUrl: "https://drive.google.com/file/d/1HHrckREP82rpWe6hihAEaOqTrdzSVqEs/vie
 # Google Drive share link to your demo video.
 # You can leave this empty in your first PR and add it once your video is ready.
 
-thumbnail: "https://drive.google.com/file/d/1GJLewr5UZ5_aNmW3gDLXhWPzrfQjN3Ks/view?usp=sharing"
+thumbnail: /thumbnails/01-aayush-nair.png
 # Upload your thumbnail image to Google Drive and paste the share link here.
 # You can leave this empty in your first PR and add it once your image is ready.
 
 githubUrl: "https://github.com/AayushNair10/SocraticTutor"
 # Only if you host your project's source code in your own GitHub repo.
 ---
-
-
 ## Problem
 
 Traditional study tools give students answers directly, which discourages deep thinking and leads to surface-level understanding. Students often memorize solutions without developing the reasoning skills needed to tackle novel problems independently — they pass tests but fail to build lasting conceptual mastery.
