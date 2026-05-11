@@ -1,6 +1,3 @@
-
-
-
 ---
 slug: 16-krishna-jayesh-mistry
 title: DBSchemaViz
